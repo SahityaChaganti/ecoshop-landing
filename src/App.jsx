@@ -1,7 +1,7 @@
 // src/App.jsx
 import React from "react";
 import Hero from "./components/Hero";
-import Products from "./components/products";
+import Products from "./components/Products";
 import Navbar from "./components/Navbar";
 import Highlights from "./components/Highlights";
 import About from "./components/About";
