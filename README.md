@@ -37,7 +37,7 @@ EcoShop is a clean, responsive, and modern landing page showcasing eco-friendly 
 
 ## 🔧 Getting Started (Run Locally)
 
-```bash
+## bash
 git clone https://github.com/SahityaChaganti/ecoshop-landing.git
 cd ecoshop-landing
 npm install
