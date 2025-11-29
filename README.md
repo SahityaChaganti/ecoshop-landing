@@ -1,16 +1,44 @@
-# React + Vite
+# 🌿 EcoShop — Sustainable Shopping Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Demo: https://ecoshop-landing.netlify.app/  
+Source Code: https://github.com/SahityaChaganti/ecoshop-landing
 
-Currently, two official plugins are available:
+## 🛠️ Tech Stack
+- React + Vite  
+- Tailwind CSS  
+- HTML5 & modern semantic tags  
+- Responsive design (mobile, tablet, desktop)  
+- Lazy-loading for images for performance  
+- Hosted on Netlify  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Purpose
+EcoShop is a clean, responsive, and modern landing page showcasing eco-friendly products — designed to demonstrate real-world skills:
+- Performance (fast load, lazy images)  
+- Clean UI & layout  
+- Responsive design  
+- SEO-friendly meta tags  
 
-## React Compiler
+## 🧩 Features
+- Hero section with call-to-action  
+- Navbar with mobile-responsive hamburger menu  
+- Highlights / Benefits section about sustainability  
+- Featured Products grid with placeholder product cards  
+- About section describing mission & values  
+- Contact form and functional UI (dummy submit)  
+- Footer with navigation and social links  
+- Responsive across devices (mobile → desktop)  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✅ What’s Done
+- Fully responsive UI  
+- Reusable React components (Navbar, Hero, Highlights, Products, About, Contact, Footer)  
+- Lazy loading for images (optimizes performance)  
+- Semantic HTML & accessibility considerations  
+- Deployed with Netlify — live demo ready  
 
-## Expanding the ESLint configuration
+## 🔧 Getting Started (Run Locally)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+git clone https://github.com/SahityaChaganti/ecoshop-landing.git
+cd ecoshop-landing
+npm install
+npm run dev
