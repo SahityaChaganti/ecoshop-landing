@@ -1,7 +1,10 @@
-# 🌿 EcoShop — Sustainable Shopping Landing Page
+# 🌿 EcoShop — Modern Eco-Friendly Landing Page
 
-Live Demo: https://ecoshop-landing.netlify.app/  
-Source Code: https://github.com/SahityaChaganti/ecoshop-landing
+Live Demo: https://ecoshop-landing.netlify.app/
+
+GitHub Repo: https://github.com/SahityaChaganti/ecoshop-landing
+
+A clean, fast, and fully responsive e-commerce landing page built with React + Vite + Tailwind CSS, designed to showcase eco-friendly products with excellent performance and SEO.
 
 ## 🛠️ Tech Stack
 - React + Vite  
@@ -18,15 +21,15 @@ EcoShop is a clean, responsive, and modern landing page showcasing eco-friendly 
 - Responsive design  
 - SEO-friendly meta tags  
 
-## 🧩 Features
-- Hero section with call-to-action  
-- Navbar with mobile-responsive hamburger menu  
-- Highlights / Benefits section about sustainability  
-- Featured Products grid with placeholder product cards  
-- About section describing mission & values  
-- Contact form and functional UI (dummy submit)  
-- Footer with navigation and social links  
-- Responsive across devices (mobile → desktop)  
+## 🚀 Features
+✅ Fully responsive (mobile, tablet, desktop)
+✅ High Lighthouse performance score (>90)
+✅ Hosted on Netlify
+✅ Clean component-based architecture
+✅ Modern UI with eco-friendly theme
+✅ Smooth UX and accessibility-focused
+✅ Fast build using Vite
+✅ Tailwind utility-first styling 
 
 ## ✅ What’s Done
 - Fully responsive UI  
@@ -37,12 +40,50 @@ EcoShop is a clean, responsive, and modern landing page showcasing eco-friendly 
 
 ## 🔧 Getting Started (Run Locally)
 
-## bash
-git clone https://github.com/SahityaChaganti/ecoshop-landing.git
+## 📦 Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/SahityaChaganti/ecoshop-landing
 cd ecoshop-landing
+
+
+Install dependencies:
+
 npm install
+
+
+Run in development:
+
 npm run dev
 
+
+Build for production:
+
+npm run build
+
+
+Preview production build:
+
+npm run preview
+
+## 📁 Project Structure
+src/
+│ App.jsx
+│ index.css
+│ main.jsx
+│
+├── components/
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── Highlights.jsx
+│   ├── Products.jsx
+│   ├── About.jsx
+│   ├── Contact.jsx
+│   └── Footer.jsx
+│
+└── assets/
+    └── images, icons, etc.
 
 
 ---
